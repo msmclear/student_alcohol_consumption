@@ -34,7 +34,9 @@ Attributes for both student-mat.csv (Math course) and student-por.csv (Portugues
 - Walc - weekend alcohol consumption (numeric: from 1 - very low to 5 - very high)
 - health - current health status (numeric: from 1 - very bad to 5 - very good)
 - absences - number of school absences (numeric: from 0 to 93)
-- These grades are related with the course subject, Math or Portuguese:
+
+
+These grades are related with the course subject, Math or Portuguese:
 
 - G1 - first period grade (numeric: from 0 to 20)
 - G2 - second period grade (numeric: from 0 to 20)
