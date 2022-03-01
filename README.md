@@ -4,9 +4,9 @@ The data were obtained in a survey of students math and portuguese language cour
 **Content:**
 Attributes for both student-mat.csv (Math course) and student-por.csv (Portuguese language course) datasets:
 
-school - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)
-sex - student's sex (binary: 'F' - female or 'M' - male)
-age - student's age (numeric: from 15 to 22)
+- school - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)
+- sex - student's sex (binary: 'F' - female or 'M' - male)
+- age - student's age (numeric: from 15 to 22)
 address - student's home address type (binary: 'U' - urban or 'R' - rural)
 famsize - family size (binary: 'LE3' - less or equal to 3 or 'GT3' - greater than 3)
 Pstatus - parent's cohabitation status (binary: 'T' - living together or 'A' - apart)
